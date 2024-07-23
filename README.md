@@ -1,9 +1,10 @@
 <div align="center">
  
 
-  # 🧠💻 Sarvesh Atalkar: The Code Philosopher 💻🧠
+  # 🌟🚀 Sarvesh: The Digital Alchemist 🚀🌟
 
-  *"The unexamined code is not worth shipping."* - Socrates (if he were a developer)
+  *"Transforming code into gold, one line at a time."*
+
 
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wowgeekyboy.wowgeekyboy)
   [![GitHub followers](https://img.shields.io/github/followers/wowgeekyboy?label=Follow&style=social)](https://github.com/wowgeekyboy)
@@ -41,7 +42,10 @@ I'm a Full Stack Developer who believes that coding is not just about solving pr
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
+  *"The unexamined code is not worth shipping."* - Socrates (if he were a developer)
+
 </div>
+
 
 ## 📊 The Metrics of My Digital Existence
 
