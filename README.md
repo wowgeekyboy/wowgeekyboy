@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Matrix-style digital rain" width="100%">
+ 
 
   # 🧠💻 Sarvesh Atalkar: The Code Philosopher 💻🧠
 
