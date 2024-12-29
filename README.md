@@ -47,12 +47,6 @@ I'm a Full Stack Developer who believes that coding is not just about solving pr
 </div>
 
 
-## 📊 The Metrics of My Digital Existence
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wowgeekyboy&show_icons=true&theme=synthwave" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wowgeekyboy&theme=synthwave" alt="GitHub Streak" />
-</div>
 
 ## 🌌 The Cosmic Connection
 
